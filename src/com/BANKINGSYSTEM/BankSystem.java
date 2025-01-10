@@ -24,7 +24,6 @@ public class BankSystem {
                 case 1:
                     System.out.println("The Current Money:-" + currentBalance);
                     break;
-//                display();
                 case 2:
                     System.out.print("Enter the deposite money:-");
                     depositeMoney = sc.nextDouble();
@@ -49,7 +48,6 @@ public class BankSystem {
                         System.out.println("Please enter vaild amount..");
                     }
                     break;
-//                display();
                 case 4:
                     System.out.println("Bye Bye..../have a good day Sir/Mam ");
                     break;
